@@ -228,7 +228,7 @@ DEPENDENCIES
   jquery-rails
   listen (>= 3.0.5, < 3.2)
   nokogiri (~> 1.6, >= 1.6.8)
-  pg (~> 0.15)
+  pg
   puma (~> 3.11)
   rails (~> 6.0.0)
   sass-rails (~> 5)
